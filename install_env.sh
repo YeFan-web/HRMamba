@@ -36,4 +36,4 @@ pip install mamba_ssm==1.1.1 --no-build-isolation
 
 
 echo "=== Environment setup completed successfully ==="
-echo "You may now run python eval.py"
+echo "You may now run python test.py"
