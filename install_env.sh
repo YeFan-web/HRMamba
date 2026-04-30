@@ -12,7 +12,7 @@ pip install numpy==1.26.0
 
 echo ">>> Installing PyTorch 2.1.1 with CUDA 11.8"
 pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
-conda install -c nvidia cuda-compiler=11.8 cuda-cudart-dev=11.8 cuda-nvcc=11.8
+conda install -c conda-forge cudatoolkit=11.8 -y
 
 echo ">>> Installing base dependencies"
 pip install opencv-python==4.11.0.86
