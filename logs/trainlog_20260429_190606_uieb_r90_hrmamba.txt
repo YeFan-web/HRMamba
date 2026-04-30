@@ -1,0 +1,14 @@
+2026-04-29 19:06:06,476 - INFO - Model save directory: ./weights/LSUI_UIEB/hrmamba/
+2026-04-29 19:06:06,477 - INFO - No checkpoint found, starting from scratch.
+2026-04-29 19:08:17,854 - INFO - Full checkpoint saved
+2026-04-29 19:08:21,536 - INFO - New best model saved (PSNR=20.2016, epoch=1) -> ./weights/LSUI_UIEB/hrmamba/best_model.pth
+2026-04-29 19:08:21,536 - INFO - Epoch 1: PSNR=20.2016, SSIM=0.7029, loss=0.104312 [Best]
+2026-04-29 19:10:34,333 - INFO - Full checkpoint saved
+2026-04-29 19:10:38,045 - INFO - New best model saved (PSNR=21.2679, epoch=2) -> ./weights/LSUI_UIEB/hrmamba/best_model.pth
+2026-04-29 19:10:38,045 - INFO - Epoch 2: PSNR=21.2679, SSIM=0.7681, loss=0.084567 [Best]
+2026-04-29 19:12:50,136 - INFO - Full checkpoint saved
+2026-04-29 19:12:53,822 - INFO - New best model saved (PSNR=22.2072, epoch=3) -> ./weights/LSUI_UIEB/hrmamba/best_model.pth
+2026-04-29 19:12:53,822 - INFO - Epoch 3: PSNR=22.2072, SSIM=0.8010, loss=0.078281 [Best]
+2026-04-29 19:15:08,063 - INFO - Full checkpoint saved
+2026-04-29 19:15:11,806 - INFO - New best model saved (PSNR=22.3470, epoch=4) -> ./weights/LSUI_UIEB/hrmamba/best_model.pth
+2026-04-29 19:15:11,806 - INFO - Epoch 4: PSNR=22.3470, SSIM=0.8068, loss=0.075197 [Best]

@@ -1,0 +1,4 @@
+2026-04-29 19:02:09,312 - INFO - Model save directory: ./weights/LSUI_UIEB/hrmamba/
+2026-04-29 19:02:09,312 - INFO - No checkpoint found, starting from scratch.
+2026-04-29 19:04:19,436 - INFO - Full checkpoint saved
+2026-04-29 19:04:19,436 - INFO - Epoch 1: loss=0.104423

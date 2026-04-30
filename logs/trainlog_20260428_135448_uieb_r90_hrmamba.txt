@@ -1,0 +1,63 @@
+2026-04-28 13:54:48,977 - INFO - Checkpoint will be saved to: /home/ai02/fy/UIE/HRMamba/weights/LSUI_UIEB/hrmamba/
+2026-04-28 13:54:48,977 - INFO - Loading checkpoint '/home/ai02/fy/UIE/HRMamba/weights/LSUI_UIEB/hrmamba/checkpoint_last.pth.tar'
+2026-04-28 13:54:49,020 - INFO - Resuming from epoch 142
+2026-04-28 13:55:11,827 - INFO - Full checkpoint saved
+2026-04-28 13:55:12,759 - INFO - Epoch 142: PSNR=22.3279, SSIM=0.8592, loss=0.044474
+2026-04-28 13:55:35,864 - INFO - Full checkpoint saved
+2026-04-28 13:55:36,945 - INFO - Epoch 143: PSNR=22.2509, SSIM=0.8544, loss=0.044055
+2026-04-28 13:56:00,512 - INFO - Full checkpoint saved
+2026-04-28 13:56:01,434 - INFO - Epoch 144: PSNR=22.4334, SSIM=0.8561, loss=0.043509
+2026-04-28 13:56:24,724 - INFO - Full checkpoint saved
+2026-04-28 13:56:25,665 - INFO - Epoch 145: PSNR=22.4903, SSIM=0.8568, loss=0.043662
+2026-04-28 13:56:49,695 - INFO - Full checkpoint saved
+2026-04-28 13:56:50,606 - DEBUG - Removed inferior model: best_psnr22.4903_epoch145.pth
+2026-04-28 13:56:50,606 - INFO - Epoch 146: PSNR=22.5091, SSIM=0.8630, loss=0.043736
+2026-04-28 13:57:13,089 - INFO - Full checkpoint saved
+2026-04-28 13:57:14,009 - INFO - Epoch 147: PSNR=22.3386, SSIM=0.8601, loss=0.043017
+2026-04-28 13:57:36,802 - INFO - Full checkpoint saved
+2026-04-28 13:57:37,735 - INFO - Epoch 148: PSNR=22.2815, SSIM=0.8485, loss=0.043192
+2026-04-28 13:58:00,244 - INFO - Full checkpoint saved
+2026-04-28 13:58:01,144 - DEBUG - Removed inferior model: best_psnr22.5078_epoch132.pth
+2026-04-28 13:58:01,144 - INFO - Epoch 149: PSNR=22.5288, SSIM=0.8604, loss=0.043223 [Best]
+2026-04-28 13:58:23,782 - INFO - Full checkpoint saved
+2026-04-28 13:58:24,688 - INFO - Epoch 150: PSNR=22.3410, SSIM=0.8580, loss=0.043066
+2026-04-28 13:58:47,508 - INFO - Full checkpoint saved
+2026-04-28 13:58:48,421 - DEBUG - Removed inferior model: best_psnr22.5091_epoch146.pth
+2026-04-28 13:58:48,421 - INFO - Epoch 151: PSNR=22.6808, SSIM=0.8617, loss=0.043407 [Best]
+2026-04-28 13:59:11,127 - INFO - Full checkpoint saved
+2026-04-28 13:59:12,038 - DEBUG - Removed inferior model: best_psnr22.5238_epoch139.pth
+2026-04-28 13:59:12,038 - INFO - Epoch 152: PSNR=22.5269, SSIM=0.8631, loss=0.042737
+2026-04-28 13:59:34,932 - INFO - Full checkpoint saved
+2026-04-28 13:59:35,837 - INFO - Epoch 153: PSNR=22.3761, SSIM=0.8589, loss=0.042532
+2026-04-28 13:59:58,438 - INFO - Full checkpoint saved
+2026-04-28 13:59:59,368 - INFO - Epoch 154: PSNR=22.0767, SSIM=0.8600, loss=0.043114
+2026-04-28 14:00:22,146 - INFO - Full checkpoint saved
+2026-04-28 14:00:23,071 - INFO - Epoch 155: PSNR=22.3269, SSIM=0.8548, loss=0.042537
+2026-04-28 14:00:46,366 - INFO - Full checkpoint saved
+2026-04-28 14:00:47,290 - INFO - Epoch 156: PSNR=22.2695, SSIM=0.8596, loss=0.042498
+2026-04-28 14:01:10,491 - INFO - Full checkpoint saved
+2026-04-28 14:01:11,410 - INFO - Epoch 157: PSNR=22.4963, SSIM=0.8596, loss=0.042329
+2026-04-28 14:01:34,245 - INFO - Full checkpoint saved
+2026-04-28 14:01:35,156 - INFO - Epoch 158: PSNR=22.3486, SSIM=0.8520, loss=0.042207
+2026-04-28 14:01:57,898 - INFO - Full checkpoint saved
+2026-04-28 14:01:58,819 - INFO - Epoch 159: PSNR=22.5181, SSIM=0.8605, loss=0.043268
+2026-04-28 14:02:21,969 - INFO - Full checkpoint saved
+2026-04-28 14:02:22,909 - INFO - Epoch 160: PSNR=22.2986, SSIM=0.8583, loss=0.042045
+2026-04-28 14:02:45,898 - INFO - Full checkpoint saved
+2026-04-28 14:02:46,825 - INFO - Epoch 161: PSNR=22.3138, SSIM=0.8573, loss=0.042701
+2026-04-28 14:03:09,862 - INFO - Full checkpoint saved
+2026-04-28 14:03:10,800 - INFO - Epoch 162: PSNR=22.0733, SSIM=0.8616, loss=0.042168
+2026-04-28 14:03:34,694 - INFO - Full checkpoint saved
+2026-04-28 14:03:35,644 - DEBUG - Removed inferior model: best_psnr22.5269_epoch152.pth
+2026-04-28 14:03:35,644 - INFO - Epoch 163: PSNR=22.6077, SSIM=0.8627, loss=0.041824
+2026-04-28 14:03:59,658 - INFO - Full checkpoint saved
+2026-04-28 14:04:00,574 - DEBUG - Removed inferior model: best_psnr22.5288_epoch149.pth
+2026-04-28 14:04:00,574 - INFO - Epoch 164: PSNR=22.5505, SSIM=0.8644, loss=0.041919
+2026-04-28 14:04:24,401 - INFO - Full checkpoint saved
+2026-04-28 14:04:25,345 - INFO - Epoch 165: PSNR=22.3255, SSIM=0.8600, loss=0.041719
+2026-04-28 14:04:48,971 - INFO - Full checkpoint saved
+2026-04-28 14:04:49,896 - INFO - Epoch 166: PSNR=22.3943, SSIM=0.8607, loss=0.041859
+2026-04-28 14:05:13,526 - INFO - Full checkpoint saved
+2026-04-28 14:05:14,461 - INFO - Epoch 167: PSNR=22.4699, SSIM=0.8575, loss=0.041813
+2026-04-28 14:05:37,334 - INFO - Full checkpoint saved
+2026-04-28 14:05:38,257 - INFO - Epoch 168: PSNR=22.2938, SSIM=0.8591, loss=0.040721

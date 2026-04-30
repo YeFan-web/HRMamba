@@ -1,0 +1,25 @@
+2026-04-28 14:11:21,389 - INFO - Model save directory: /home/ai02/fy/UIE/HRMamba/weights/LSUI_UIEB/hrmamba/
+2026-04-28 14:11:21,389 - INFO - Loading checkpoint '/home/ai02/fy/UIE/HRMamba/weights/LSUI_UIEB/hrmamba/checkpoint_last.pth.tar'
+2026-04-28 14:11:21,431 - INFO - Resuming from epoch 181, best_psnr = -1.0000
+2026-04-28 14:11:44,002 - INFO - Full checkpoint saved
+2026-04-28 14:11:44,949 - INFO - New best model saved (PSNR=22.4713, epoch=181) -> /home/ai02/fy/UIE/HRMamba/weights/LSUI_UIEB/hrmamba/best_model.pth
+2026-04-28 14:11:44,949 - INFO - Epoch 181: PSNR=22.4713, SSIM=0.8659, loss=0.039380 [Best]
+2026-04-28 14:12:07,756 - INFO - Full checkpoint saved
+2026-04-28 14:12:08,653 - INFO - Epoch 182: PSNR=22.2085, SSIM=0.8572, loss=0.039110
+2026-04-28 14:12:31,386 - INFO - Full checkpoint saved
+2026-04-28 14:12:32,333 - INFO - New best model saved (PSNR=22.6769, epoch=183) -> /home/ai02/fy/UIE/HRMamba/weights/LSUI_UIEB/hrmamba/best_model.pth
+2026-04-28 14:12:32,334 - INFO - Epoch 183: PSNR=22.6769, SSIM=0.8658, loss=0.039164 [Best]
+2026-04-28 14:12:54,767 - INFO - Full checkpoint saved
+2026-04-28 14:12:55,676 - INFO - Epoch 184: PSNR=22.3072, SSIM=0.8603, loss=0.038546
+2026-04-28 14:13:18,013 - INFO - Full checkpoint saved
+2026-04-28 14:13:18,938 - INFO - Epoch 185: PSNR=22.6570, SSIM=0.8633, loss=0.038417
+2026-04-28 14:13:41,369 - INFO - Full checkpoint saved
+2026-04-28 14:13:42,274 - INFO - Epoch 186: PSNR=22.4912, SSIM=0.8664, loss=0.038427
+2026-04-28 14:14:05,021 - INFO - Full checkpoint saved
+2026-04-28 14:14:05,915 - INFO - Epoch 187: PSNR=22.3460, SSIM=0.8620, loss=0.037783
+2026-04-28 14:14:28,378 - INFO - Full checkpoint saved
+2026-04-28 14:14:29,286 - INFO - Epoch 188: PSNR=22.4907, SSIM=0.8640, loss=0.037993
+2026-04-28 14:14:51,836 - INFO - Full checkpoint saved
+2026-04-28 14:14:52,757 - INFO - Epoch 189: PSNR=22.4183, SSIM=0.8635, loss=0.038380
+2026-04-28 14:15:15,500 - INFO - Full checkpoint saved
+2026-04-28 14:15:16,414 - INFO - Epoch 190: PSNR=22.3575, SSIM=0.8595, loss=0.038396
