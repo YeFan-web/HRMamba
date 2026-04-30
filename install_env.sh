@@ -6,7 +6,7 @@ echo "=== Setting up environment for HRMamba evaluation ==="
 
 
 echo ">>> Upgrading pip, setuptools, wheel"
-pip install --upgrade pip setuptools wheel
+pip install setuptools==79.0.1
 
 pip install numpy==1.26.0
 
