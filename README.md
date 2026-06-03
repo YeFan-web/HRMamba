@@ -82,15 +82,16 @@ python test.py --model ./pretrained_models/HRMamba-LSUI.pth
 
 
 ## Citation
-    @ARTICLE{10129222,
-      author={Ye Fan, Lina Gao, Fuheng Zhou, Ning Li and Yulong Huang},
-      journal={IEEE Transactions on Image Processing}, 
-      title={HRMamba: A Hybrid Retinex and State-Space Model for Underwater Image Enhancement}, 
-      year={2026},
-      volume={},
-      number={},
-      pages={},
-      doi={10.1109/TIP.2026.3689407}}
+@ARTICLE{11511406,
+  author={Fan, Ye and Gao, Lina and Zhou, Fuheng and Li, Ning and Huang, Yulong},
+  journal={IEEE Transactions on Image Processing}, 
+  title={HRMamba: A Hybrid Retinex and State-Space Model for Underwater Image Enhancement}, 
+  year={2026},
+  volume={35},
+  number={},
+  pages={5064-5079},
+  keywords={Broadcasting;Filtering;Circuits and systems;Filters;Central Processing Unit;LoRa;Pixel;Videos;Internet;Protocols;Underwater image enhancement;Retinex-based model;state-space model;dual-stream structure;feature fusion},
+  doi={10.1109/TIP.2026.3689407}}
 
 
 
